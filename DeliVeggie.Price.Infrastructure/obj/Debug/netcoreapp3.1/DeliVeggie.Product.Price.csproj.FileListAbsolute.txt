@@ -1,0 +1,8 @@
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\bin\Debug\netcoreapp3.1\DeliVeggie.Product.Price.deps.json
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\bin\Debug\netcoreapp3.1\DeliVeggie.Product.Price.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\bin\Debug\netcoreapp3.1\DeliVeggie.Product.Price.pdb
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Price.csprojAssemblyReference.cache
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Price.AssemblyInfoInputs.cache
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Price.AssemblyInfo.cs
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Price.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Price.pdb

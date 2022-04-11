@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliVeggie.Product.Api", "DeliVeggie.Product.Api\DeliVeggie.Product.Api.csproj", "{56621C04-38F3-411C-92CC-4AA1ADBAB0F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliVeggie.Product.Domain", "DeliVeggie.Product.Domain\DeliVeggie.Product.Domain.csproj", "{7659F17A-87EB-4F3B-9E68-F7B929163A58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliVeggie.Product.Infrastructure", "DeliVeggie.Product.Infrastructure\DeliVeggie.Product.Infrastructure.csproj", "{35D5AB6A-4881-4870-AA7C-99A72E408C16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliVeggie.Product.Domain.Test", "DeliVeggie.Product.Domain.Test\DeliVeggie.Product.Domain.Test.csproj", "{591E4567-5FEE-4F91-A652-F2B13E50E7CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliVeggie.Prices.Api", "DeliVeggie.Prices.Api\DeliVeggie.Prices.Api.csproj", "{DBAE35FF-4E02-49F7-967D-DB5589EAF9DF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeliVeggie.Price.Infrastructure", "DeliVeggie.Price.Infrastructure\DeliVeggie.Price.Infrastructure.csproj", "{AE5DA03B-53D1-48EF-9826-A79D869EA923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56621C04-38F3-411C-92CC-4AA1ADBAB0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56621C04-38F3-411C-92CC-4AA1ADBAB0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56621C04-38F3-411C-92CC-4AA1ADBAB0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56621C04-38F3-411C-92CC-4AA1ADBAB0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7659F17A-87EB-4F3B-9E68-F7B929163A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7659F17A-87EB-4F3B-9E68-F7B929163A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7659F17A-87EB-4F3B-9E68-F7B929163A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7659F17A-87EB-4F3B-9E68-F7B929163A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D5AB6A-4881-4870-AA7C-99A72E408C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D5AB6A-4881-4870-AA7C-99A72E408C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D5AB6A-4881-4870-AA7C-99A72E408C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D5AB6A-4881-4870-AA7C-99A72E408C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591E4567-5FEE-4F91-A652-F2B13E50E7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591E4567-5FEE-4F91-A652-F2B13E50E7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591E4567-5FEE-4F91-A652-F2B13E50E7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591E4567-5FEE-4F91-A652-F2B13E50E7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAE35FF-4E02-49F7-967D-DB5589EAF9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAE35FF-4E02-49F7-967D-DB5589EAF9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAE35FF-4E02-49F7-967D-DB5589EAF9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAE35FF-4E02-49F7-967D-DB5589EAF9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5DA03B-53D1-48EF-9826-A79D869EA923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5DA03B-53D1-48EF-9826-A79D869EA923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5DA03B-53D1-48EF-9826-A79D869EA923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5DA03B-53D1-48EF-9826-A79D869EA923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB43D82D-A76E-4DE3-A486-B417DF5F863E}
+	EndGlobalSection
+EndGlobal

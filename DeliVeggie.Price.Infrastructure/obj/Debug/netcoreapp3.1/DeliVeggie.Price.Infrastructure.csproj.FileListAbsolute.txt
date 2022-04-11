@@ -1,0 +1,15 @@
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\bin\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.deps.json
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\bin\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\bin\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.pdb
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.AssemblyInfoInputs.cache
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.AssemblyInfo.cs
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.pdb
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Price\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.csprojAssemblyReference.cache
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Price.Infrastructure\bin\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.deps.json
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Price.Infrastructure\bin\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Price.Infrastructure\bin\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.pdb
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Price.Infrastructure\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.AssemblyInfoInputs.cache
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Price.Infrastructure\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.AssemblyInfo.cs
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Price.Infrastructure\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Price.Infrastructure\obj\Debug\netcoreapp3.1\DeliVeggie.Price.Infrastructure.pdb

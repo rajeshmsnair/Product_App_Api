@@ -1,0 +1,7 @@
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Domain\bin\Debug\netcoreapp3.1\DeliVeggie.Product.Domain.deps.json
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Domain\bin\Debug\netcoreapp3.1\DeliVeggie.Product.Domain.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Domain\bin\Debug\netcoreapp3.1\DeliVeggie.Product.Domain.pdb
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Domain\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Domain.AssemblyInfoInputs.cache
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Domain\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Domain.AssemblyInfo.cs
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Domain\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Domain.dll
+C:\Rajesh\Personal\Carrer\Test\Deli_Veggie\DeliVeggie\DeliVeggie.Product.Domain\obj\Debug\netcoreapp3.1\DeliVeggie.Product.Domain.pdb
